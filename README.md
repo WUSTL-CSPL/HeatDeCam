@@ -10,7 +10,7 @@ The paper is available at https://cybersecurity.seas.wustl.edu/paper/CCS22_HeatD
 
 ### Dataset
 
-The dataset contains a total of 11 spy cameras with varying brands, connectivity, appearances, and functionalities to form a representative set of spy cameras deployed in the real world.
+The dataset contains a total of eleven spy cameras with varying brands, connectivity, appearances, and functionalities to form a representative set of spy cameras deployed in the real world.
 
 We used thermal camera attachments manufactured by FLIR to capture thermal and visual images when deploying cameras in six different rooms across three scenarios - Airbnb, Hotel, and Office.
 
